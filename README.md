@@ -3,7 +3,6 @@
 - 🔭 I’m currently learning to be a better frontend developer
 - 👨‍💻 All of my projects are available at [katayoonrabbani](https://katayoonrabbani.netlify.app/)
 
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +14,6 @@
     </a>
 </p>
 
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
