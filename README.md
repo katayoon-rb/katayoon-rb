@@ -57,7 +57,7 @@
 </p>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=katayoon-rb&show_icons=true&locale=en" alt="katayoonrabbani" width="430" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=katayoon-rb&" alt="katayoonrabbani" width="430" />
+    <img src="https://github-readme-stats.vercel.app/api?username=katayoon-rb&show_icons=true&locale=en" alt="katayoonrabbani" width="410" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=katayoon-rb&" alt="katayoonrabbani" width="410" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katayoon-rb&show_icons=true&locale=en&layout=compact" alt="katayoonrabbani" />
 </p>
