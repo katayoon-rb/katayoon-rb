@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Katayoon Rabbani</h1>
 
 - 🔭 I’m currently learning to be a better frontend developer
-- 👨‍💻 All of my projects are available at [katayoonrabbani](https://katayoonrabbani.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://katayoonrabbani.netlify.app/)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -37,7 +37,10 @@
     </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/>
-    </a> 
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40"/>
+    </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40"/>
     </a> 
@@ -48,7 +51,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40"/>
     </a> 
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40"/>
     </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"/>
