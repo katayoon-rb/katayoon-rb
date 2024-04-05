@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Katayoon Rabbani</h1>
 
 - 🔭 I’m currently learning to be a better frontend developer
-- 👨‍💻 All of my projects are available at [my portfolio](https://katayoonrabbani.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://katayoonrabbani.vercel.app/)
 
 
 <h3 align="left">Connect with me:</h3>
