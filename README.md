@@ -50,9 +50,6 @@
     <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40"/>
     </a> 
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://icons8.com/icon/yUdJlcKanVbh/next.js" alt="nextjs" width="40"/>
-    </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40"/>
     </a>
