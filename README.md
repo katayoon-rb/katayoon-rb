@@ -9,8 +9,8 @@
 
 <h3 align="left">🛠 Skills</h3>
 <div align="left">
-  <ul>
-    <li>
+  <ul style="display: flex;">
+    <li style="width: 25%;">
       <h4 align="left">Expert:</h4>
       <ul>
         <li>HTML and CSS</li>
@@ -21,7 +21,7 @@
         <li>Responsive Web Design</li>
       </ul>
     </li>
-    <li>
+    <li style="width: 25%;">
       <h4 align="left">Advanced:</h4>
       <ul>
         <li>SCSS (Sass)</li>
@@ -33,7 +33,7 @@
         <li>Django</li>
       </ul>
     </li>
-    <li>
+    <li style="width: 25%;">
       <h4 align="left">Intermediate:</h4>
       <ul>
         <li>Vue.js</li>
@@ -44,7 +44,7 @@
         <li>HTMX</li>
       </ul>
     </li>
-    <li>
+    <li style="width: 25%;">
       <h4 align="left">Basic:</h4>
       <ul>
         <li>C</li>
